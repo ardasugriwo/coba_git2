@@ -12,7 +12,8 @@ and open the template in the editor.
     <body>
         <?php
             echo "selamat datang di git bro ";
-            echo "dan tambahannya ada disini";
+            
+            echo "tambahan dan pengurangan";
         ?>
     </body>
 </html>
