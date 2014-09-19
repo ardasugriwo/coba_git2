@@ -19,7 +19,7 @@ and open the template in the editor.
             
             echo "selamat malam";
             
-            goblok
+            echo 'karena ';
         ?>
     </body>
 </html>
