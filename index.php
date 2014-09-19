@@ -16,6 +16,8 @@ and open the template in the editor.
             echo "tambahan dan pengurangan";
             
             echo "bersama";
+            
+            echo "selamat malam";
         ?>
     </body>
 </html>
