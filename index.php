@@ -18,6 +18,8 @@ and open the template in the editor.
             echo "bersama";
             
             echo "selamat malam";
+            
+            goblok
         ?>
     </body>
 </html>
